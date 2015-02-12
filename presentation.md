@@ -1,3 +1,5 @@
+footer: Patrick Rauland - @BFTrick
+
 # Future of WordPress
 
 ---
