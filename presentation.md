@@ -4,11 +4,7 @@ footer: Patrick Rauland - @BFTrick
 
 ---
 
-# The Story of Steve and John
-
----
-
-# Steve
+# It Starts With a Website...
 
 ^ So you're a business owner and you hear you need a website so that people can find you. And everyone keeps saying how "easy" it is.
 
